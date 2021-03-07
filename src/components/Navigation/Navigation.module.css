@@ -1,0 +1,22 @@
+.navigationList {
+  display: flex;
+  list-style: none;
+  max-width: 1000px;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.navigationListItem {
+  margin-right: 10px;
+}
+
+.navigationLink {
+  color: #212121;
+  text-decoration: none;
+}
+
+.navigationLinkActive {
+  color: palevioletred;
+}

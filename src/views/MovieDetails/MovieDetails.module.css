@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  max-width: 200px;
+  height: 30px;
+  font-size: 17px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0 0 20px;
+}
+
+.movieCard {
+  display: flex;
+}
+
+.movieCardInfo {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 20px 20px;
+}
+
+.addInfoList {
+  list-style: none;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.addInfoLink {
+  margin-bottom: 10px;
+}

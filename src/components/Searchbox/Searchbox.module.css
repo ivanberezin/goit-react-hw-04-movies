@@ -1,0 +1,16 @@
+.form {
+  margin: auto 20px;
+}
+
+.input {
+  height: 30px;
+  font-size: 17px;
+}
+
+.button {
+  max-width: 120px;
+  height: 30px;
+  font-size: 17px;
+  border-radius: 5px;
+  cursor: pointer;
+}

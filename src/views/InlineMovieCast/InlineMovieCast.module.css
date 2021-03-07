@@ -1,0 +1,24 @@
+.castList {
+  list-style: none;
+}
+
+.castItem {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 10px 20px;
+  padding: 0;
+}
+
+.castImg {
+  margin: 0 0 10px;
+}
+
+.castName {
+  margin: 0 0 5px;
+  max-width: 150px;
+}
+
+.castRole {
+  margin: 0 0 10px;
+  max-width: 100px;
+}
